@@ -1,8 +1,9 @@
 let numeroSecreto = 6;
-let numeroUsuario = prompt("Me indicas un número por favor:");
+let numeroUsuario = prompt("Me indicas un nÃºmero por favor:");
 
 console.log(numeroUsuario);
 
 if (numeroUsuario == numeroSecreto) {
-    alert('Acertaste el número');
+    alert('Acertaste el nÃºmero');
 }
+
