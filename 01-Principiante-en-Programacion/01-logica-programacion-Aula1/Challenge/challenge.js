@@ -1,6 +1,8 @@
-// Declara una variable llamada nombre y asígnale el valor "Luna".
+// Muestra una alerta con el mensaje "¡Bienvenida y bievenido a nuestro sitio web!".
 alert('¡Bienvenida y bievenido a nuestro sitio web!');
-alert('21');
+
+// Declara una variable llamada nombre y asígnale el valor "Luna".
+let nombre = "Luna"
 
 // Crea una variable llamada <edad> y asígnale el valor 25.
 let edad = 25;
@@ -26,7 +28,6 @@ let nombreUsuario = prompt('Cuál es tu nombre de usuario')
 let edadUsuario = prompt('Ingresa tu edad: ')
 
 // Ahora, si la edad es mayor o igual a 18, muestra una alerta con el mensaje "¡Puedes obtener tu licencia de conducir!".
-if (edadUsuario >= 18);
-    alert('¡Puedes obtener tu licencia de conducir!')
-
-
+if (edadUsuario >= 18){
+    alert('¡Puedes obtener tu licencia de conducir!');
+}
