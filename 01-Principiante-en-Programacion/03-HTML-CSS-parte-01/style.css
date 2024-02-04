@@ -1,0 +1,41 @@
+.titulo_principal{
+    padding-left: 20px;
+}
+
+#banner{
+    background-color: red;
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    border: red solid;
+}
+
+.servicios{
+    background-color: beige;
+    padding-top: 5px;
+}
+
+.img_servicios{
+    width: 40%;
+}
