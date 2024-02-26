@@ -10,6 +10,7 @@ El repositorio está organizado en carpetas numeradas que representan diferentes
 2. `02-Logica-de-programacion`: Esta es una continuación de la carpeta anterior, con más desafíos de lógica de programación.
 3. `03-HTML-CSS-parte-01`: En esta carpeta, comencé a aprender HTML y CSS. Aquí construí una página web básica.
 4. `04-HTML-CSS-parte-02`: Aquí continué mi aprendizaje de HTML y CSS, construyendo una página de productos.
+5. `05-HTML-CSS-parte-03`: En esta etapa, profundicé aún más en HTML y CSS, aprendiendo sobre conceptos avanzados y construyendo una página web más compleja.
 
 Cada carpeta contiene sus propios archivos de código, como `app.js` para JavaScript y `index.html` y `style.css` para HTML y CSS.
 
