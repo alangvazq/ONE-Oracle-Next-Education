@@ -17,3 +17,9 @@ Cada carpeta contiene sus propios archivos de código, como `app.js` para JavaSc
 ## Cómo Ejecutar los Proyectos
 
 Para ejecutar cualquiera de los proyectos, clona el repositorio y abre el archivo `index.html` en tu navegador.
+
+## Frontend
+
+1. `CSS: Flexbox y layouts responsivos`
+2. `Practicando Front End: Challenge Portafolio`
+3. `JavaScript para web: crea páginas dinámicas`
